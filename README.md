@@ -24,7 +24,7 @@ For more information please contact: Earendel
 
 //
 
-##FMLDOL
+## FMLDOL
 Licença exclusiva de distribuição limitada do Factorio Mod
 Este software é fornecido sem garantia e o autor/proprietário da licença do software não pode ser responsabilizado por danos.
 Uso comercial
